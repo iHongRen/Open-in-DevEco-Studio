@@ -1,5 +1,5 @@
 # Open-in-DevEco-Studio
-[Open-in-DevEco-Studio](https://github.com/iHongRen/Open-in-DevEco-Studio) 是一个 MacOS 应用， 支持直接在 Finder 工具栏上，使用 **DevEco-Studio** 打开鸿蒙工程。
+[Open-in-DevEco-Studio](https://github.com/iHongRen/Open-in-DevEco-Studio) 是一个 MacOS 应用， 支持直接在 Finder 工具栏上，使用 **DevEco-Studio** 打开鸿蒙工程。**大小只有 270KB**。
 
 ![](./screenshots/app.png)
 
