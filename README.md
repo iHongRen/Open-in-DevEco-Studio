@@ -1,5 +1,5 @@
 # Open-in-DevEco-Studio
-[Open-in-DevEco-Studio](https://github.com/iHongRen/Open-in-DevEco-Studio) 是一个 MacOS 应用， 支持直接在 Finder 工具栏上，使用 **DevEco-Studio** 打开鸿蒙工程。**大小只有 270KB**。
+[Open-in-DevEco-Studio](https://github.com/iHongRen/Open-in-DevEco-Studio) 是一个 MacOS 应用， 支持直接在 Finder 工具栏上，使用 **DevEco-Studio** 打开鸿蒙工程。
 
 ![](./screenshots/app.png)
 
@@ -19,27 +19,11 @@
 
 ## 自定义应用图标
 
-1、**右键**应用程序里的 `Open-in-DevEco-Studio.app` ，点击**显示包内容** -> Contents -> Resources -> ApplicationStub.icns 。
+1、**右键**应用程序里的 `Open-in-DevEco-Studio.app` ，点击 **显示简介** 。
 
-2、在 icons/ 目录，选一个偏好的 icon, 替换掉 ApplicationStub.icns。保持命名不变。
-
-3、重启下 Finder 和 Dock。有缓存，图标变更得等一会儿才生效。
-
-```sh
-# 命令行
-> killall Finder
-> killall Dock
-```
-
-![](./screenshots/icons.png)
+2、将喜欢的图标直接拖到箭头所指的位置进行替换
 
 ![](./screenshots/change_icon.png)
-
-
-
-
-
-
 
 
 
