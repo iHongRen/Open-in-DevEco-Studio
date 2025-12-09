@@ -9,12 +9,16 @@
 
 1、下载 `Open-in-DevEco-Studio.app` 后，拖放到 "**应用程序**"。
 
-2、在**应用程序**里，按住 **cmd** 键，拖放 `Open-in-DevEco-Studio.app` 到 **Finder** 工具栏上。
+2、去除隔离属性，在终端执行命令：  
+ ```sh
+ sudo xattr -dr com.apple.quarantine /Applications/Open-in-DevEco-Studio.app
+ ```
 
-3、点击后，根据提示给相应权限。
+3、在**应用程序**里，按住 **cmd** 键，拖放 `Open-in-DevEco-Studio.app` 到 **Finder** 工具栏上。
 
-4、在 **Finder** 里找到鸿蒙项目，直接点击工具栏上的 `Open-in-DevEco-Studio.app` 就可以打开工程。
+4、点击后，根据提示给相应权限。
 
+5、在 **Finder** 里找到鸿蒙项目，直接点击工具栏上的 `Open-in-DevEco-Studio.app` 就可以打开工程。
 
 
 ## 自定义应用图标
