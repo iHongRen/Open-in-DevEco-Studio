@@ -31,7 +31,26 @@
 
 
 
-## 我的其他作品
+# 作者
 
-[hpack](https://github.com/iHongRen/hpack) 鸿蒙HarmonyOS应用内部测试分发，一键打包、签名、安装工具。<a href="https://github.com/iHongRen/hpack" class="a-link" target="_blank"><img src="https://img.shields.io/github/stars/iHongRen/hpack.svg?style=social" alt="GitHub Stars"></a>
+[@仙银](https://github.com/iHongRen)
+
+鸿蒙开源作品，欢迎持续关注 [🌟Star](https://github.com/iHongRen/Open-in-DevEco-Studio) ，[💖赞助](https://ihongren.github.io/donate.html)
+
+1、[hpack](https://github.com/iHongRen/hpack) - 鸿蒙 HarmonyOS 一键打包上传分发测试工具。<a href="https://github.com/iHongRen/hpack" class="a-link" target="_blank"><img src="https://img.shields.io/github/stars/iHongRen/hpack.svg?style=social" alt="GitHub Stars"></a>
+
+2、[Open-in-DevEco-Studio](https://github.com/iHongRen/Open-in-DevEco-Studio)  - macOS 直接在 Finder 工具栏上，使用
+DevEco-Studio 打开鸿蒙工程。
+
+3、[cxy-theme](https://github.com/iHongRen/cxy-theme) - DevEco-Studio 绿色护眼背景主题
+
+4、[harmony-udid-tool](https://github.com/iHongRen/harmony-udid-tool) - 简单易用的 HarmonyOS 设备 UDID 获取工具，适用于非开发人员。
+
+5、[SandboxFinder](https://github.com/iHongRen/SandboxFinder) - 鸿蒙沙箱文件浏览器，支持模拟器和真机
+
+6、[WebServer](https://github.com/iHongRen/WebServer) - 鸿蒙轻量级Web服务器框架，类 Express.js API 风格。
+
+7、[SelectableMenu](https://github.com/iHongRen/SelectableMenu) - 适用于聊天对话框中的文本选择菜单
+
+8、[RefreshList](https://github.com/iHongRen/RefreshList) - 功能完善的上拉下拉加载组件，支持各种自定义。
 
